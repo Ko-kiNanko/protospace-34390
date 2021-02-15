@@ -222,11 +222,14 @@ a {
 
 .comments_lists{
   padding-left: 20px;
+
 }
 
 .comments_list{
   list-style-type: square;
   padding-bottom: 5px;
+  display: block;
+
 }
 
 .comment_user{
